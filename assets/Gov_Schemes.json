@@ -1,0 +1,172 @@
+{
+    "divisions": [
+        {
+            "division_name": "Reproductive, Maternal, neonatal, Child, And Adolescent Health Related Schemes",
+            "schemes": [
+                {
+                    "scheme_name": "Rashtriya Kishor Swasthya Karyakram (RKSK)",
+                    "objective": "To address the health needs of adolescents in the age group of 10-19 years.",
+                    "key_features": [
+                        "Focus on sexual and reproductive health, mental health, nutrition, substance misuse, and violence",
+                        "Community-based interventions and peer education",
+                        "Adolescent-friendly health clinics"
+                    ],
+                    "target_group": "Adolescents aged 10-19 years",
+                    "implemented_year": "2014"
+                },
+                {
+                    "scheme_name": "Rashtriya Bal Swasthya Karyakram (RBSK)",
+                    "objective": "To provide comprehensive health care and early detection of diseases, deficiencies, developmental delays, and disabilities in children under 18 years.",
+                    "key_features": [
+                        "Screening for 4 Ds: Defects at birth, Deficiencies, Diseases, Development delays including disabilities",
+                        "Free treatment and management at public health facilities",
+                        "Mobile health teams and health screening at schools and Anganwadi centers"
+                    ],
+                    "target_group": "Children from birth to 18 years",
+                    "implemented_year": "2013"
+                },
+                {
+                    "scheme_name": "Universal Immunisation Programme",
+                    "objective": "To prevent mortality and morbidity in children and pregnant women against vaccine-preventable diseases.",
+                    "key_features": [
+                        "Provision of vaccines to children against diseases like Diphtheria, Pertussis, Tetanus, Polio, Measles, and Hepatitis B",
+                        "Inclusion of new vaccines like Rotavirus, Pneumococcal, and Japanese Encephalitis"
+                    ],
+                    "target_group": "Children and pregnant women",
+                    "implemented_year": "1985"
+                },
+                {
+                    "scheme_name": "Janani Suraksha Yojana (JSY)",
+                    "objective": "To reduce maternal and neonatal mortality by promoting institutional deliveries.",
+                    "key_features": [
+                        "Cash incentives for institutional deliveries",
+                        "Focus on low-performing states and rural areas",
+                        "Support by Accredited Social Health Activists (ASHAs) for antenatal and postnatal care"
+                    ],
+                    "target_group": "Pregnant women",
+                    "implemented_year": "2005"
+                },
+                {
+                    "scheme_name": "Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)",
+                    "objective": "To provide quality antenatal care to pregnant women on the 9th of every month.",
+                    "key_features": [
+                        "Free antenatal check-ups and counseling at government health centers",
+                        "Identification and management of high-risk pregnancies",
+                        "Involvement of private sector doctors to volunteer for the program"
+                    ],
+                    "target_group": "Pregnant women",
+                    "implemented_year": "2016"
+                },
+                {
+                    "scheme_name": "Navjaat Shishu Suraksha Karyakram (NSSK)",
+                    "objective": "To train healthcare providers in the essential newborn care and resuscitation.",
+                    "key_features": [
+                        "Focus on reducing neonatal mortality",
+                        "Training on basic newborn care including resuscitation",
+                        "Implementation in both public and private healthcare settings"
+                    ],
+                    "target_group": "Newborns and healthcare providers",
+                    "implemented_year": "2009"
+                },
+                {
+                    "scheme_name": "LaQshya Programme (Labour Room Quality Improvement Initiative)",
+                    "objective": "To improve the quality of care in labour rooms and maternity operation theatres.",
+                    "key_features": [
+                        "Focus on respectful maternity care",
+                        "Implementation of standard operating procedures and clinical protocols",
+                        "Capacity building and monitoring of labour room staff"
+                    ],
+                    "target_group": "Pregnant women and newborns",
+                    "implemented_year": "2017"
+                }
+            ]
+        },
+        {
+            "division_name": "National Nutritional Programmes",
+            "schemes": [
+                {
+                    "scheme_name": "National Programme for Prevention and Control of Fluorosis (NPPCF)",
+                    "objective": "To prevent and control fluorosis, a public health problem caused by excess fluoride in water.",
+                    "key_features": [
+                        "Monitoring fluoride levels in drinking water",
+                        "Public awareness and education on fluorosis prevention",
+                        "Treatment of affected individuals"
+                    ],
+                    "target_group": "Communities in fluoride-affected areas",
+                    "implemented_year": "2008"
+                },
+                {
+                    "scheme_name": "National Iron Plus Initiative for Anaemia Control",
+                    "objective": "To reduce the prevalence of anemia across all age groups.",
+                    "key_features": [
+                        "Provision of iron and folic acid supplements",
+                        "Deworming and screening for anemia",
+                        "Nutrition counseling and promotion of iron-rich foods"
+                    ],
+                    "target_group": "Children, adolescents, pregnant women, and lactating mothers",
+                    "implemented_year": "2013"
+                }
+            ]
+        },
+        {
+            "division_name": "Policies For Communicable Diseases",
+            "programmes": [
+                {
+                    "programme_name": "Integrated Disease Surveillance Programme (IDSP)",
+                    "objective": "To detect and respond to disease outbreaks quickly.",
+                    "key_features": [
+                        "Collection, analysis, and dissemination of disease surveillance data",
+                        "Outbreak investigations and response activities",
+                        "Capacity building of surveillance staff"
+                    ],
+                    "target_group": "General population",
+                    "implemented_year": "2004"
+                },
+                {
+                    "programme_name": "Revised National Tuberculosis Control Programme (RNTCP)",
+                    "objective": "To achieve universal access to tuberculosis care and treatment.",
+                    "key_features": [
+                        "Provision of free TB diagnosis and treatment services",
+                        "Implementation of the DOTS (Directly Observed Treatment, Short-course) strategy",
+                        "Active case finding and management"
+                    ],
+                    "target_group": "TB patients and high-risk populations",
+                    "implemented_year": "1997"
+                },
+                {
+                    "programme_name": "National Vector Borne Disease Control Programme (NVBDCP)",
+                    "objective": "To prevent and control vector-borne diseases such as malaria, dengue, and chikungunya.",
+                    "key_features": [
+                        "Surveillance and control of mosquito-borne diseases",
+                        "Distribution of insecticide-treated nets and indoor residual spraying",
+                        "Public awareness campaigns on vector control"
+                    ],
+                    "target_group": "General population in affected areas",
+                    "implemented_year": "2003"
+                },
+                {
+                    "programme_name": "National Leprosy Eradication Programme (NLEP)",
+                    "objective": "To eliminate leprosy as a public health problem in India.",
+                    "key_features": [
+                        "Early detection and treatment of leprosy cases",
+                        "Provision of multi-drug therapy (MDT) free of charge",
+                        "Rehabilitation of leprosy-affected individuals"
+                    ],
+                    "target_group": "Leprosy patients and high-risk populations",
+                    "implemented_year": "1955"
+                },
+                {
+                    "programme_name": "National AIDS Control Programme (NACP)",
+                    "objective": "To prevent the spread of HIV/AIDS and provide care and treatment to people living with HIV.",
+                    "key_features": [
+                        "Awareness and education on HIV prevention",
+                        "Provision of free antiretroviral therapy (ART)",
+                        "Support services for people living with HIV/AIDS"
+                    ],
+                    "target_group": "General population, key populations at higher risk of HIV",
+                    "implemented_year": "1992"
+                }
+            ]
+        }
+    ]
+}

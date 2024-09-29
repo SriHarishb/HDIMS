@@ -1,0 +1,142 @@
+{
+    "patient_id": "P001",
+    "personal_information": {
+      "name": "John Doe",
+      "date_of_birth": "1985-06-15",
+      "gender": "Male",
+      "blood_type": "O+",
+      "allergies": ["Penicillin", "Peanuts"],
+      "contact_information": {
+        "phone": "+1234567890",
+        "email": "johndoe@example.com",
+        "address": "1234 Elm Street, Springfield, IL, USA"
+      },
+      "emergency_contact": {
+        "name": "Jane Doe",
+        "relationship": "Spouse",
+        "phone": "+0987654321"
+      }
+    },
+    "basic_medical_data": {
+      "height_cm": 178,
+      "weight_kg": 75,
+      "bmi": 23.7,
+      "blood_pressure": {
+        "systolic": 120,
+        "diastolic": 80
+      },
+      "heart_rate": 70,
+      "respiratory_rate": 16,
+      "oxygen_saturation": 98
+    },
+    "medical_history": {
+      "chronic_conditions": ["Hypertension", "Type 2 Diabetes"],
+      "past_surgeries": [
+        {
+          "surgery": "Appendectomy",
+          "date": "2010-04-12",
+          "hospital": "Springfield General Hospital"
+        },
+        {
+          "surgery": "Knee Arthroscopy",
+          "date": "2018-11-05",
+          "hospital": "City Hospital"
+        }
+      ],
+      "medications": [
+        {
+          "name": "Metformin",
+          "dosage": "500 mg",
+          "frequency": "Twice daily"
+        },
+        {
+          "name": "Amlodipine",
+          "dosage": "5 mg",
+          "frequency": "Once daily"
+        }
+      ]
+    },
+    "recent_lab_results": {
+      "date": "2024-08-20",
+      "blood_tests": {
+        "hemoglobin": "14.5 g/dL",
+        "white_blood_cells": "6,200 cells/mcL",
+        "platelets": "250,000 cells/mcL",
+        "glucose_fasting": "110 mg/dL",
+        "cholesterol": {
+          "total": "180 mg/dL",
+          "hdl": "55 mg/dL",
+          "ldl": "110 mg/dL"
+        }
+      },
+      "urine_tests": {
+        "protein": "Negative",
+        "glucose": "Negative",
+        "ketones": "Negative"
+      },
+      "ecg": {
+        "date": "2024-08-18",
+        "result": "Normal sinus rhythm"
+      },
+      "chest_xray": {
+        "date": "2024-08-15",
+        "findings": "Clear lung fields, no abnormalities detected"
+      }
+    },
+    "upcoming_appointments": [
+      {
+        "date": "2024-09-05",
+        "time": "10:30 AM",
+        "specialist": "Endocrinologist",
+        "hospital": "Springfield Medical Center",
+        "purpose": "Routine diabetes check-up"
+      },
+      {
+        "date": "2024-09-12",
+        "time": "02:00 PM",
+        "specialist": "Cardiologist",
+        "hospital": "City Heart Institute",
+        "purpose": "Blood pressure management follow-up"
+      }
+    ],
+    "immunization_records": [
+      {
+        "vaccine": "Influenza",
+        "date": "2023-10-15"
+      },
+      {
+        "vaccine": "Tetanus",
+        "date": "2022-05-20"
+      }
+    ],
+    "family_medical_history": {
+      "father": ["Hypertension", "Coronary artery disease"],
+      "mother": ["Osteoporosis", "Type 2 Diabetes"],
+      "siblings": ["Asthma"]
+    },
+    "lifestyle_and_habits": {
+      "smoking_status": "Non-smoker",
+      "alcohol_consumption": "Occasional",
+      "diet": "Balanced diet with controlled carbohydrates",
+      "physical_activity": "Moderate exercise 3-4 times a week"
+    },
+    "diagnostic_reports": [
+      {
+        "report_id": "R001",
+        "type": "MRI Brain",
+        "date": "2024-07-22",
+        "hospital": "Neurology Diagnostic Center",
+        "findings": "Normal brain structure with no signs of lesions or abnormalities.",
+        "scan_image_url": "MRI BRAIN.jpg"
+      },
+      {
+        "report_id": "R002",
+        "type": "CT Abdomen",
+        "date": "2024-06-30",
+        "hospital": "City Hospital Radiology Dept.",
+        "findings": "Mild fatty liver, no other abnormalities detected.",
+        "scan_image_url": "CT ABDOMEN.jpg"
+      }
+    ]
+  }
+  

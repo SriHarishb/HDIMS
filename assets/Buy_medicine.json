@@ -1,0 +1,93 @@
+[
+    {
+      "medicine_id": "M001",
+      "name": "Paracetamol",
+      "brand": "Crocin",
+      "dosage": "500mg",
+      "price": 25.0,
+      "quantity_available": 100,
+      "description": "Used for fever and pain relief"
+    },
+    {
+      "medicine_id": "M002",
+      "name": "Amoxicillin",
+      "brand": "Amoxil",
+      "dosage": "250mg",
+      "price": 50.0,
+      "quantity_available": 200,
+      "description": "Antibiotic used to treat bacterial infections"
+    },
+    {
+      "medicine_id": "M003",
+      "name": "Ibuprofen",
+      "brand": "Advil",
+      "dosage": "200mg",
+      "price": 30.0,
+      "quantity_available": 150,
+      "description": "Used for pain relief and reducing fever"
+    },
+    {
+      "medicine_id": "M004",
+      "name": "Cetirizine",
+      "brand": "Zyrtec",
+      "dosage": "10mg",
+      "price": 15.0,
+      "quantity_available": 200,
+      "description": "Used for allergy relief"
+    },
+    {
+      "medicine_id": "M005",
+      "name": "Metformin",
+      "brand": "Glucophage",
+      "dosage": "500mg",
+      "price": 60.0,
+      "quantity_available": 80,
+      "description": "Used for blood sugar control in diabetes"
+    },
+    {
+      "medicine_id": "M006",
+      "name": "Atorvastatin",
+      "brand": "Lipitor",
+      "dosage": "20mg",
+      "price": 45.0,
+      "quantity_available": 120,
+      "description": "Used to lower cholesterol"
+    },
+    {
+      "medicine_id": "M007",
+      "name": "Lisinopril",
+      "brand": "Prinivil",
+      "dosage": "10mg",
+      "price": 35.0,
+      "quantity_available": 60,
+      "description": "Used for high blood pressure"
+    },
+    {
+      "medicine_id": "M008",
+      "name": "Omeprazole",
+      "brand": "Prilosec",
+      "dosage": "20mg",
+      "price": 40.0,
+      "quantity_available": 90,
+      "description": "Used for acid reflux"
+    },
+    {
+      "medicine_id": "M009",
+      "name": "Aspirin",
+      "brand": "Bayer",
+      "dosage": "100mg",
+      "price": 10.0,
+      "quantity_available": 300,
+      "description": "Used for pain relief and reducing inflammation"
+    },
+    {
+      "medicine_id": "M010",
+      "name": "Losartan",
+      "brand": "Cozaar",
+      "dosage": "50mg",
+      "price": 55.0,
+      "quantity_available": 110,
+      "description": "Used for high blood pressure"
+    }
+  ]
+  

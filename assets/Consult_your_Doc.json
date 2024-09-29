@@ -1,0 +1,230 @@
+{
+    "hospitals": [
+      {
+        "hospital_name": "Apollo Hospital",
+        "hospital_address": "21 Greams Lane, Chennai, Tamil Nadu, India",
+        "hospital_contact_info": {
+          "phone": "+91 44 2829 0200",
+          "email": "info@apollochennai.com"
+        },
+        "doctors": [
+          {
+            "name": "Dr. Anjali Sharma",
+            "qualification": "MBBS, MD, Cardiology",
+            "specialization": "Cardiologist",
+            "contact_info": {
+              "phone": "+91 98840 12345",
+              "email": "anjali.sharma@apollochennai.com"
+            },
+            "online_availability": {
+              "days": ["Monday", "Wednesday", "Friday"],
+              "timings": "10:00 AM - 1:00 PM"
+            }
+          },
+          {
+            "name": "Dr. Ravi Kumar",
+            "qualification": "MBBS, MS, Orthopedics",
+            "specialization": "Orthopedic Surgeon",
+            "contact_info": {
+              "phone": "+91 98407 56789",
+              "email": "ravi.kumar@apollochennai.com"
+            },
+            "online_availability": {
+              "days": ["Tuesday", "Thursday", "Saturday"],
+              "timings": "2:00 PM - 5:00 PM"
+            }
+          },
+          {
+            "name": "Dr. Priya Menon",
+            "qualification": "MBBS, DGO",
+            "specialization": "Gynecologist",
+            "contact_info": {
+              "phone": "+91 90920 98765",
+              "email": "priya.menon@apollochennai.com"
+            },
+            "online_availability": {
+              "days": ["Monday", "Wednesday", "Friday"],
+              "timings": "11:00 AM - 2:00 PM"
+            }
+          },
+          {
+            "name": "Dr. Suresh Iyer",
+            "qualification": "MBBS, MD, Pediatrics",
+            "specialization": "Pediatrician",
+            "contact_info": {
+              "phone": "+91 97890 11223",
+              "email": "suresh.iyer@apollochennai.com"
+            },
+            "online_availability": {
+              "days": ["Tuesday", "Thursday", "Saturday"],
+              "timings": "9:00 AM - 12:00 PM"
+            }
+          },
+          {
+            "name": "Dr. Kavita Reddy",
+            "qualification": "MBBS, MD, Dermatology",
+            "specialization": "Dermatologist",
+            "contact_info": {
+              "phone": "+91 94444 56789",
+              "email": "kavita.reddy@apollochennai.com"
+            },
+            "online_availability": {
+              "days": ["Wednesday", "Friday"],
+              "timings": "3:00 PM - 6:00 PM"
+            }
+          }
+        ]
+      },
+      {
+        "hospital_name": "Fortis Hospital",
+        "hospital_address": "154/9, Bannerghatta Road, Bengaluru, Karnataka, India",
+        "hospital_contact_info": {
+          "phone": "+91 80 6621 4444",
+          "email": "contact@fortisbengaluru.com"
+        },
+        "doctors": [
+          {
+            "name": "Dr. Arvind Patel",
+            "qualification": "MBBS, MD, Neurology",
+            "specialization": "Neurologist",
+            "contact_info": {
+              "phone": "+91 98456 23456",
+              "email": "arvind.patel@fortisbengaluru.com"
+            },
+            "online_availability": {
+              "days": ["Monday", "Wednesday", "Friday"],
+              "timings": "10:00 AM - 1:00 PM"
+            }
+          },
+          {
+            "name": "Dr. Neha Verma",
+            "qualification": "MBBS, MS, ENT",
+            "specialization": "ENT Specialist",
+            "contact_info": {
+              "phone": "+91 99000 67890",
+              "email": "neha.verma@fortisbengaluru.com"
+            },
+            "online_availability": {
+              "days": ["Tuesday", "Thursday", "Saturday"],
+              "timings": "11:00 AM - 2:00 PM"
+            }
+          },
+          {
+            "name": "Dr. Rajesh Khanna",
+            "qualification": "MBBS, MD, Psychiatry",
+            "specialization": "Psychiatrist",
+            "contact_info": {
+              "phone": "+91 98865 43210",
+              "email": "rajesh.khanna@fortisbengaluru.com"
+            },
+            "online_availability": {
+              "days": ["Monday", "Wednesday", "Friday"],
+              "timings": "2:00 PM - 5:00 PM"
+            }
+          },
+          {
+            "name": "Dr. Lakshmi Narayan",
+            "qualification": "MBBS, MS, General Surgery",
+            "specialization": "General Surgeon",
+            "contact_info": {
+              "phone": "+91 98450 98765",
+              "email": "lakshmi.narayan@fortisbengaluru.com"
+            },
+            "online_availability": {
+              "days": ["Tuesday", "Thursday", "Saturday"],
+              "timings": "9:00 AM - 12:00 PM"
+            }
+          },
+          {
+            "name": "Dr. Meera Krishnan",
+            "qualification": "MBBS, MD, Dermatology",
+            "specialization": "Dermatologist",
+            "contact_info": {
+              "phone": "+91 99860 45678",
+              "email": "meera.krishnan@fortisbengaluru.com"
+            },
+            "online_availability": {
+              "days": ["Wednesday", "Friday"],
+              "timings": "4:00 PM - 7:00 PM"
+            }
+          }
+        ]
+      },
+      {
+        "hospital_name": "Max Super Speciality Hospital",
+        "hospital_address": "Saket, New Delhi, Delhi, India",
+        "hospital_contact_info": {
+          "phone": "+91 11 2651 5050",
+          "email": "support@maxhealthcare.com"
+        },
+        "doctors": [
+          {
+            "name": "Dr. Vikas Gupta",
+            "qualification": "MBBS, MD, Cardiology",
+            "specialization": "Cardiologist",
+            "contact_info": {
+              "phone": "+91 98110 12345",
+              "email": "vikas.gupta@maxhealthcare.com"
+            },
+            "online_availability": {
+              "days": ["Monday", "Wednesday", "Friday"],
+              "timings": "9:00 AM - 12:00 PM"
+            }
+          },
+          {
+            "name": "Dr. Smita Rao",
+            "qualification": "MBBS, MS, Ophthalmology",
+            "specialization": "Ophthalmologist",
+            "contact_info": {
+              "phone": "+91 98990 67890",
+              "email": "smita.rao@maxhealthcare.com"
+            },
+            "online_availability": {
+              "days": ["Tuesday", "Thursday", "Saturday"],
+              "timings": "11:00 AM - 2:00 PM"
+            }
+          },
+          {
+            "name": "Dr. Ramesh Chandra",
+            "qualification": "MBBS, MD, Endocrinology",
+            "specialization": "Endocrinologist",
+            "contact_info": {
+              "phone": "+91 98112 45678",
+              "email": "ramesh.chandra@maxhealthcare.com"
+            },
+            "online_availability": {
+              "days": ["Monday", "Wednesday", "Friday"],
+              "timings": "3:00 PM - 6:00 PM"
+            }
+          },
+          {
+            "name": "Dr. Asha Jain",
+            "qualification": "MBBS, MD, Gynecology",
+            "specialization": "Gynecologist",
+            "contact_info": {
+              "phone": "+91 98113 65432",
+              "email": "asha.jain@maxhealthcare.com"
+            },
+            "online_availability": {
+              "days": ["Tuesday", "Thursday", "Saturday"],
+              "timings": "10:00 AM - 1:00 PM"
+            }
+          },
+          {
+            "name": "Dr. Pankaj Singh",
+            "qualification": "MBBS, MD, Oncology",
+            "specialization": "Oncologist",
+            "contact_info": {
+              "phone": "+91 98114 12345",
+              "email": "pankaj.singh@maxhealthcare.com"
+            },
+            "online_availability": {
+              "days": ["Wednesday", "Friday"],
+              "timings": "4:00 PM - 7:00 PM"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  

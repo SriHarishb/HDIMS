@@ -1,0 +1,115 @@
+{
+    "patientId": "P12345",
+    "patientName": "John Doe",
+    "prescriptionHistory": [
+      {
+        "from": {
+          "hospital": "City Hospital",
+          "doctor": "Dr. Emily Stone"
+        },
+        "date": "2024-09-01",
+        "medicine": [
+          {
+            "name": "Amoxicillin",
+            "amount": "500mg",
+            "instructions": {
+              "timeOfDay": "Morning",
+              "beforeOrAfterFood": "After food",
+              "duration": "7 days"
+            }
+          },
+          {
+            "name": "Paracetamol",
+            "amount": "500mg",
+            "instructions": {
+              "timeOfDay": "Night",
+              "beforeOrAfterFood": "Before food",
+              "duration": "5 days"
+            }
+          }
+        ]
+      },
+      {
+        "from": {
+          "hospital": "Green Valley Clinic",
+          "doctor": "Dr. John Matthews"
+        },
+        "date": "2024-08-20",
+        "medicine": [
+          {
+            "name": "Ibuprofen",
+            "amount": "200mg",
+            "instructions": {
+              "timeOfDay": "Afternoon",
+              "beforeOrAfterFood": "After food",
+              "duration": "3 days"
+            }
+          }
+        ]
+      },
+      {
+        "from": {
+          "hospital": "Sunrise Health Center",
+          "doctor": "Dr. Karen White"
+        },
+        "date": "2024-08-15",
+        "medicine": [
+          {
+            "name": "Lisinopril",
+            "amount": "10mg",
+            "instructions": {
+              "timeOfDay": "Morning",
+              "beforeOrAfterFood": "Before food",
+              "duration": "14 days"
+            }
+          },
+          {
+            "name": "Atorvastatin",
+            "amount": "20mg",
+            "instructions": {
+              "timeOfDay": "Night",
+              "beforeOrAfterFood": "After food",
+              "duration": "30 days"
+            }
+          }
+        ]
+      },
+      {
+        "from": {
+          "hospital": "Northside General",
+          "doctor": "Dr. Sarah Brown"
+        },
+        "date": "2024-07-30",
+        "medicine": [
+          {
+            "name": "Metformin",
+            "amount": "500mg",
+            "instructions": {
+              "timeOfDay": "Morning",
+              "beforeOrAfterFood": "After food",
+              "duration": "90 days"
+            }
+          }
+        ]
+      },
+      {
+        "from": {
+          "hospital": "West End Hospital",
+          "doctor": "Dr. David Thompson"
+        },
+        "date": "2024-07-12",
+        "medicine": [
+          {
+            "name": "Citalopram",
+            "amount": "20mg",
+            "instructions": {
+              "timeOfDay": "Morning",
+              "beforeOrAfterFood": "Before food",
+              "duration": "30 days"
+            }
+          }
+        ]
+      }
+    ]
+  }
+  
