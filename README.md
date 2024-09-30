@@ -53,6 +53,6 @@ Updates patients about Available government health schemes.
 ## PS Category- Software
 ## Team ID-13362
 ## Team Name- SYNTAX SQUADion
-## TEAM MEMBERS: ARJUN N S,SRIHARISH B,GUGHAN S,SOWMYA BADHON,ASHWINA KN,TARUNIKA D.
+## TEAM MEMBERS: ARJUN NS,ASHWINA KN,GUGHAN S,SOWMYA BADONI,SRI HARISH B,TARUNIKA D.
 
 
